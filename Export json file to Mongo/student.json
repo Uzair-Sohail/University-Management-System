@@ -1,0 +1,7 @@
+[{"student_id":1, "fname":"Ahmad", "lname":"Ali", "dob":"2010-03-05", "Gender":"Male", "phone":"51001001", "mobile":"3001001", "date_of_join":"2014-01-01", "address":"h#001 st#001 RWP", "grade":1},
+ {"student_id":2, "fname":"Sadia ", "lname":"Aslam", "dob":"2010-07-01", "Gender":"Female", "phone":"51002002", "mobile":"3002002", "date_of_join":"2014-01-01", "address":"h#002 st#002 RWP", "grade":2},
+ {"student_id":3, "fname":"Ali", "lname":"Murtza", "dob":"2009-03-01", "Gender":"Male", "phone":"51003003", "mobile":"3003003", "date_of_join":"2013-01-01", "address":"h#003 st#003 RWP", "grade":2},
+ {"student_id":4, "fname":"Waqas", "lname":"Raza", "dob":"2009-03-09", "Gender":"Female", "phone":"51004004", "mobile":"3004004", "date_of_join":"2013-01-01", "address":"h#004 st#004 RWP", "grade":2},
+ {"student_id":5, "fname":"Naila", "lname":"Amir", "dob":"2008-02-03", "Gender":"Female", "phone":"51005005", "mobile":"3005005", "date_of_join":"2012-01-01", "address":"h#005 st#005 RWP", "grade":3},
+ {"student_id":6, "fname":"Ahsan", "lname":"Khan", "dob":"2008-03-05", "Gender":"Male", "phone":"51006006", "mobile":"3006006", "date_of_join":"2012-01-01", "address":"h#006 st#006 RWp", "grade":3},
+ {"student_id":11, "fname":"Umar ", "lname":"Ahmad", "dob":"2025-02-02", "Gender":"Male", "phone":"222", "mobile":"2222", "date_of_join":"2000-01-01", "address":"asd", "grade":1}]

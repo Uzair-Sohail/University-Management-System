@@ -1,0 +1,4 @@
+[{"teacher_id":100, "fname":"Asif", "lname":"Khan", "dob":"1980-03-06", "phone":51100100, "mobile":3100100},
+ {"teacher_id":101, "fname":"Sadia ", "lname":"Sultan", "dob":"1990-02-09", "phone":51101101, "mobile":3101101},
+ {"teacher_id":103, "fname":"Haroon", "lname":"Rasheed", "dob":"1989-04-02", "phone":51103103, "mobile":3103103},
+ {"teacher_id":104, "fname":"Tabinda", "lname":"Naz", "dob":"1980-04-02", "phone":51104104, "mobile":3104104}]
